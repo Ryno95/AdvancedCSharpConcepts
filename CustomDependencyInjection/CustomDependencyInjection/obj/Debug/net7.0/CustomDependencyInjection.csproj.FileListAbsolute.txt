@@ -1,0 +1,15 @@
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\bin\Debug\net7.0\CustomDependencyInjection.exe
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\bin\Debug\net7.0\CustomDependencyInjection.deps.json
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\bin\Debug\net7.0\CustomDependencyInjection.runtimeconfig.json
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\bin\Debug\net7.0\CustomDependencyInjection.dll
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\bin\Debug\net7.0\CustomDependencyInjection.pdb
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\CustomDependencyInjection.csproj.AssemblyReference.cache
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\CustomDependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\CustomDependencyInjection.AssemblyInfoInputs.cache
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\CustomDependencyInjection.AssemblyInfo.cs
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\CustomDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\CustomDependencyInjection.dll
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\refint\CustomDependencyInjection.dll
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\CustomDependencyInjection.pdb
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\CustomDependencyInjection.genruntimeconfig.cache
+C:\Users\MER\source\repos\CustomDependencyInjection\CustomDependencyInjection\obj\Debug\net7.0\ref\CustomDependencyInjection.dll
