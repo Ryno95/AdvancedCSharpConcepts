@@ -1,5 +1,5 @@
 ﻿namespace CustomDependencyInjection
-{ 
+{
 	internal class Program
 	{
 		static void Main(string[] args)
@@ -176,6 +176,25 @@
 			}
 		}
 
+		public class Animal
+		{
+			private string _name;
+			public Animal() { _name = "Kudu"}
+
+			public Animal(string name) { _name = name}
+		}
+
+		public class Animal2
+		{
+			public Animal2()
+			{
+				// Parameterless ctor
+				Activator.CreateInstance(typeof(Animal));
+
+				// Ctor with parameters
+				Activator.CreateInstance(typeof(Animal), typeof(string));
+			}
+		}
 
 	}
 }
